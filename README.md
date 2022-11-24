@@ -34,15 +34,10 @@
 
 ---
 
-### 📺 Latest YouTube Videos
 
-➡️ [more videos...]
 
 ---
 
-### 📕 Latest Blog Posts
-
-➡️ [more blog posts...]
 
 ---
 
