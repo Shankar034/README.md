@@ -19,7 +19,7 @@
 - 🔧   Git | Gitlab | Github
 
 ### ⭐️Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/Shankar2054#gh-light-mode-only)
+[twitter]: https://twitter.com/Shankar2054
 [![website](./img/twitter-dark.svg)](https://twitter.com/Shankar2054#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/shankar-bhandari-99b2aa190#gh-light-mode-only)
